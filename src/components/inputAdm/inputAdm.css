@@ -1,0 +1,22 @@
+.containerInput{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.label{
+  text-align: start;
+  margin-bottom:8px
+}
+
+.inputAdm{
+  border-radius: 10px;
+  height: 30px;
+  padding-left: 15px;
+}
+
+.classError{
+    color: #ff0000;
+    font-size: 12px; 
+    margin-top: 4px; 
+}

@@ -1,0 +1,14 @@
+.listContainer{
+    border: 0.5px solid #333;
+    border-radius: 10px;
+    box-sizing: border-box;
+  
+    .list{
+        border-top: 0.5px solid #333; 
+    }
+
+    h3{
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+}

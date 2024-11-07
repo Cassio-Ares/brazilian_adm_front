@@ -1,0 +1,21 @@
+.chartPie{
+    margin-top: -15px;
+    margin-left: 40px;
+    border: 0.5px solid #333;
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: 600px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+     h3{
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+
+   
+}
+

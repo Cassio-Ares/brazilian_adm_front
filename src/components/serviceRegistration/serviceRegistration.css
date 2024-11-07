@@ -1,0 +1,36 @@
+.containerServiceRegister{
+    display: grid;
+    grid-template-columns: 40% auto;
+    width: 100%;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+  margin-top: -28px;
+}
+
+.labelSelect{
+    margin-right: 15px;
+}
+
+.containerMap{
+
+}
+
+.butttonWork{
+    margin-top: 30px;
+    width: 200px;
+    height: 35px;
+    background: #32A137;
+    border: none;
+    border-radius: 10px;
+    box-shadow:  5px 5px 9px #aaa6a6,
+         -5px -5px 19px #32A137;
+    transition: 1s;
+}
+
+.butttonWork:hover {
+    background: #10ABE6;
+    transform: scale(1.1);
+}
